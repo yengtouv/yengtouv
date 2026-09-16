@@ -9,7 +9,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA Security+](file:///C:/Users/Yengtou/OneDrive/Documents/Resume/CompTIA%20Security+%20ce%20certificate%20(1).pdf) 
+- [CompTIA Security+](https://github.com/yengtouv/yengtouv/blob/5c2ceef6f61475f2c2864b8e9836e9517c282e86/CompTIA%20Security%2B%20ce%20certificate%20(1).pdf) 
 - [CompTIA Cloud+](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/CompTIA%20Cloud%2B%20ce%20certificate.pdf)
 - [EC-Council Certified Ecrpytion Specialist](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/ECC-ECES-Certificate.pdf)
 - [Cybersecurity for Critical Urban Infrastructure](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/MIT%20Cert.pdf) 
