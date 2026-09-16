@@ -14,13 +14,6 @@
 - [EC-Council Certified Ecrpytion Specialist](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/ECC-ECES-Certificate.pdf)
 - [Cybersecurity for Critical Urban Infrastructure](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/MIT%20Cert.pdf) 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="YengtouVang | LinkedIn" width="22px" src="https://www.linkedin.com/in/yengtou-vang-10a9192b3" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/yengtou-vang-10a9192b3
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
