@@ -3,12 +3,16 @@
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Splunk Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
     
 
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+](file:///C:/Users/Yengtou/OneDrive/Documents/Resume/CompTIA%20Security+%20ce%20certificate%20(1).pdf) 
-- 
+- [CompTIA Cloud+](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/CompTIA%20Cloud%2B%20ce%20certificate.pdf)
+- [EC-Council Certified Ecrpytion Specialist](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/ECC-ECES-Certificate.pdf)
+- [Cybersecurity for Critical Urban Infrastructure](https://github.com/yengtouv/yengtouv/blob/8f853b67644907039e8de93ebbba6709ede2d20a/MIT%20Cert.pdf) 
 
 <h2> 🤳 Connect with me:</h2>
 
